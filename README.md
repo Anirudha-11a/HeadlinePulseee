@@ -1,6 +1,6 @@
-NewsNinja - Stealthy News Aggregator
+HeadlinePulseee - Stealthy News Aggregator
 
-Your personal news ninja that silently gathers headlines and Reddit reactions, then delivers audio briefings straight to your ears. *No scroll, just soul.*
+Your personalHeadlinePulseee that silently gathers headlines and Reddit reactions, then delivers audio briefings straight to your ears. *No scroll, just soul.*
 
 ---
 FEATURES
@@ -16,13 +16,7 @@ PREREQUISITES
 - ElevenLabs account (https://elevenlabs.io)
 
 ---
-QUICK START
 
-1. Clone the Dojo
-```
-git clone https://github.com/AIwithhassan/newsninja.git
-cd NewsNinja
-```
 
 2. Install Dependencies
 ```
